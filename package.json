@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/MiraThakkar/Developer-Profile-Generator#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "handlebars": "^4.7.2",
     "inquirer": "^7.0.4",
     "pdf-puppeteer": "^1.1.9"
